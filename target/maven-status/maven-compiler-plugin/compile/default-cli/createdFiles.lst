@@ -1,0 +1,6 @@
+com\richard\realtime\kanban\producer\PaymentInfoProducer.class
+com\richard\realtime\kanban\Storm\KanBanTopology.class
+com\richard\realtime\kanban\Storm\ETLBolt.class
+com\richard\realtime\kanban\view\Kanban.class
+com\richard\realtime\kanban\domain\PaymentInfo.class
+com\richard\realtime\kanban\Storm\ProcessBolt.class
